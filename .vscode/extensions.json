@@ -1,6 +1,24 @@
 {
     "recommendations": [
         "ms-edgedevtools.vscode-edge-devtools",
-        "webossdk.webosstudio"
+        "webossdk.webosstudio",
+        "johnpapa.angular2",
+        "blairleduc.net-core-starters-pack",
+        "adrianwilczynski.add-reference",
+        "coderfin.logical-properties",
+        "adelphes.android-dev-ext",
+        "diemasmichiels.emulate",
+        "angular.ng-template",
+        "salesforce.salesforcedx-vscode-apex",
+        "lintangwisesa.arduino",
+        "moozzyk.arduino",
+        "vsciot-vscode.vscode-arduino",
+        "ronaldosena.arduino-snippets",
+        "skyramp.mocker-vscode",
+        "jawei.autopreviewer",
+        "plethoraofhate.aws-actions",
+        "ms-vscode.azurecli",
+        "feiskyer.chatgpt-copilot",
+        "david9991.plcc-plugin"
     ]
 }
