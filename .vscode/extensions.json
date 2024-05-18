@@ -19,6 +19,14 @@
         "plethoraofhate.aws-actions",
         "ms-vscode.azurecli",
         "feiskyer.chatgpt-copilot",
-        "david9991.plcc-plugin"
+        "david9991.plcc-plugin",
+        "devsense.composer-php-vscode",
+        "bleastprogram.cpp-compiler",
+        "oleg-shilo.cs-script",
+        "dart-code.dart-code",
+        "zaraclaj.dart-extensions-snippets",
+        "peterhdd.dartgettersetter",
+        "formulahendry.dotnet",
+        "cerebus.atasm-altirra-bridge"
     ]
 }
